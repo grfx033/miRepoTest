@@ -1,5 +1,4 @@
 hola
 este es un archivo de prueba.
-linea numero tres.
-linea numero cuatro.
-linea numero cinco.
+Conflicto resuelto.
+

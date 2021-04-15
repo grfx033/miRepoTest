@@ -1,3 +1,3 @@
 # Hola Mundo
-## Subtittulo1
+## Ejercicio1
 parrafo
